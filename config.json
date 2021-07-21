@@ -1,0 +1,35 @@
+{
+    "prefix": "s!",
+    "manager_roles": ["623265050039156746", "534371156350992394"],
+    "activities": [["suggestions", "WATCHING"], ["your needs", "LISTENING"]],
+    "strings": {
+        "no_suggestion": "You didn't type any suggestion.",
+        "new_suggestion": "New suggestion",
+        "suggestion_received": ":white_check_mark: Your suggestion has been sent to the server staff.",
+        "no_suggestion_found": "I couldn't find any suggestion with that ID",
+        "confirmed": "Suggestion confirmed",
+        "confirmed_by": "Confirmed by: {{user}}",
+        "already_confirmed": "That suggestion has already been confirmed",
+        "accepted": "Suggestion accepted",
+        "accepted_by": "Accepted by: {{user}}",
+        "denied": "Suggestion denied",
+        "denied_by": "Denied by: {{user}}",
+        "no_perms": "You do not have permission to use that command",
+        "votes": "Votes",
+        "reason": "Reason"
+    },
+    "emojis": {
+        "upvote": "👍",
+        "downvote": "👎"
+    },
+    "cooldown": {
+        "suggest": 5,
+        "accept": 0,
+        "deny": 0,
+        "confirm": 0,
+        "ping": 0,
+        "string": "You must wait {{time}} seconds to use that command again"
+    },
+    "channel": "867407598722875393",
+    "pre_channel": "867407615255511040"
+}
